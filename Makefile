@@ -36,6 +36,7 @@ test:
 coverage:
 	coverage run --source autolearn -m pytest
 	coverage report -m
+	coverage html
 
 ## package and upload a release
 release:
