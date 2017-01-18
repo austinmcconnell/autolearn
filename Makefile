@@ -30,7 +30,7 @@ lint:
 
 ## run tests quickly with the default Python
 test:
-	py.test
+	pytest
 
 ## check code coverage quickly with the default Python
 coverage:
