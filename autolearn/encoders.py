@@ -9,6 +9,8 @@ class EncodeCategorical(BaseEstimator, TransformerMixin):
         self.encoders = None
 
     def fit(self, data, target=None):
+        if target:
+            data.drop(target, axis=1, inplace=True)
         if self.columns is None:
             self.columns = data.select_dtypes(include=['object', 'category']).columns
 
