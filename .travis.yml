@@ -14,9 +14,7 @@ install:
     - pip install coverage
 
 script:
-    - py.test
     - coverage run --source autolearn -m pytest
-
 after_success:
     - codecov
 
