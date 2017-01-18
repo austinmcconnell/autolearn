@@ -12,7 +12,7 @@ import pytest
 
 from contextlib import contextmanager
 
-from autolearn import autolearn
+# from autolearn import autolearn
 
 
 
