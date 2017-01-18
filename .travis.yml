@@ -11,6 +11,7 @@ python:
 install:
     - pip install pytest
     - pip install pandas
+    - pip install sklearn
     - pip install codecov
     - pip install coverage
 
