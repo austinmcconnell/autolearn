@@ -5,7 +5,7 @@ with open('README.rst') as readme_file:
 
 requirements = [
     'Click >=6.7, <7.0',
-    'matplotlib >=1.5, <2.0'
+    'matplotlib >=1.5, <2.0',
     'numpy >=1.11, <2.0',
     'pandas >=0.19, <2.0',
     'progressbar2 >=3.12, < 4.0',
