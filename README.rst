@@ -9,10 +9,6 @@ autolearn
 .. image:: https://img.shields.io/travis/austinmcconnell/autolearn.svg
         :target: https://travis-ci.org/austinmcconnell/autolearn
 
-.. image:: https://readthedocs.org/projects/autolearn/badge/?version=latest
-        :target: https://autolearn.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
 .. image:: https://pyup.io/repos/github/austinmcconnell/autolearn/shield.svg
      :target: https://pyup.io/repos/github/austinmcconnell/autolearn/
      :alt: Updates
