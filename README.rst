@@ -3,9 +3,6 @@ autolearn
 ===============================
 
 
-.. image:: https://img.shields.io/pypi/v/autolearn.svg
-        :target: https://pypi.python.org/pypi/autolearn
-
 .. image:: https://img.shields.io/travis/austinmcconnell/autolearn.svg
         :target: https://travis-ci.org/austinmcconnell/autolearn
 
