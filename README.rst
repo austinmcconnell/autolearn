@@ -18,12 +18,13 @@ Automatic Machine Learning
 
 
 * Free software: MIT license
-* Documentation: https://autolearn.readthedocs.io.
 
 
-Features
+Add Features
 --------
 
+* Add Tune-single capability
+* Add Tune-all capability
 * Set up ReadTheDocs
 * Write tests
-* Sphinx make documentation
+* Makeake documentation
