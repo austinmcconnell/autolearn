@@ -1,0 +1,11 @@
+bumpversion
+Click
+matplotlib
+numpy
+pandas
+progressbar2
+pylint
+pytest
+pytest-cov
+scikit-learn
+seaborn
