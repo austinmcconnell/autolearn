@@ -1,6 +1,6 @@
 import pytest
 import pandas as pd
-from autolearn.encoders import *
+from autolearn.encoders import EncodeCategorical
 
 
 class TestEncoder:
