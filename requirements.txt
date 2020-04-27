@@ -11,7 +11,7 @@ numpy==1.16.1
 pandas==0.20.3
 progressbar2==3.34.2
 py==1.4.34
-pylint==1.7.2
+pylint==2.5.0
 pyparsing==2.2.0
 pytest==3.2.2
 pytest-cov==2.5.1
